@@ -1,0 +1,42 @@
+
+.login{
+    background-image: url("https://res.cloudinary.com/dllb2cjw6/image/upload/v1584914956/signup-bg_bhg37l.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    height: 100vh;
+    
+}
+.login img{
+    height: 80px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.input{
+    padding: 10px 10px ;
+    background-color:whitesmoke;
+    width: 300px;
+    border: none;
+    margin-bottom: 20px;
+}
+.myButton{
+    width: 300px;
+}
+
+
+
+.paragraph-text:hover{
+    text-decoration: none;
+}
+
+.login a{
+    color: red;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+
+
+

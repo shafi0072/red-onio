@@ -1,0 +1,35 @@
+.banner{
+    opacity: 0.8;
+    background-size: cover;
+    background-image: url("https://res.cloudinary.com/dllb2cjw6/image/upload/v1584737490/bannerbackground_soll8g.png") ;
+    background-repeat: no-repeat;
+    height: 525px;
+    background-position: center center;
+    margin-top: 100px;
+    
+    
+   }
+
+.search-box{
+    position: relative;
+}
+.search-btn{
+    top:0;
+    position: absolute;
+    right: 15px;
+    height: 100%;
+    border-radius:20px;
+    size: 20px;
+
+}
+.form-control{
+    border-radius: 25px;
+    border:none;
+    padding-left: 25px;
+}
+
+.container{
+
+    margin-bottom: 20px;
+
+}

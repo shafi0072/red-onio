@@ -1,0 +1,44 @@
+.food-area .card{
+    border:none;
+}
+
+.food-area nav li{
+    color: black;
+    cursor: pointer;
+    font-weight: 500;
+    margin-right:30px;
+}
+
+.food-area nav .active{
+    color: salmon;
+}
+
+.food-area nav .active:after{
+    content: "";
+    width: 75%;
+    height: 4px;
+    background-color: sandybrown;
+    display: block;
+    border-radius: 2px;
+    margin: 0 auto;
+}
+
+.food-area .card-img-top{
+    width: 60%;
+    display: block;
+    padding-top: 10px;
+    margin: 0 auto;
+}
+
+.food-area .card:hover{
+    box-shadow: 0px 5px 13px 5px whitesmoke;
+    cursor: pointer;
+}
+
+.food-area div>a:hover{
+    text-decoration: none;
+}
+
+.food-area div>a{
+    color: black;
+}
